@@ -64,5 +64,5 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
-import Background_BoasVindas_rc
-import Em_pe_rc
+import Ui.Background_BoasVindas
+import Ui.Em_pe

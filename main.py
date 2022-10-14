@@ -26,5 +26,5 @@ if __name__ == "__main__":
     qt = QApplication(argv)
     window = Inicializa() 
     window.show()
-    qt.exec_()
-    exit()
+    
+    exit(qt.exec_())

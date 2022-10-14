@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="newPrefix">
-    <file>part2.jpg</file>
-    <file>part1.webp</file>
-  </qresource>
-</RCC>
